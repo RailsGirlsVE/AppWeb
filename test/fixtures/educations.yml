@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  university: MyString
+  title: MyString
+  date-star: 2017-10-30
+  date_end: 2017-10-30
+
+two:
+  university: MyString
+  title: MyString
+  date-star: 2017-10-30
+  date_end: 2017-10-30

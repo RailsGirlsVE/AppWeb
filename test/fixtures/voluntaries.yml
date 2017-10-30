@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  organization: MyString
+  function: MyString
+  description: MyString
+  date_start: 2017-10-30
+  date_end: 2017-10-30
+  current: false
+
+two:
+  organization: MyString
+  function: MyString
+  description: MyString
+  date_start: 2017-10-30
+  date_end: 2017-10-30
+  current: false

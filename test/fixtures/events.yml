@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  place: MyString
+  address: MyString
+  name: MyString
+  description: MyString
+  hour_date_star: 2017-10-30 12:07:00
+  hour_date_end: 2017-10-30 12:07:00
+
+two:
+  place: MyString
+  address: MyString
+  name: MyString
+  description: MyString
+  hour_date_star: 2017-10-30 12:07:00
+  hour_date_end: 2017-10-30 12:07:00

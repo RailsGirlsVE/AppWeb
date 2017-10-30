@@ -6,12 +6,14 @@
 #
 default: &default
   adapter: postgresql
-  host: db
+  username: postgres
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
   timeout: 5000
 
 development:
   <<: *default
+  host: localhost
+  password:
   database: development
 
 # Warning: The database defined as "test" will be erased and
@@ -23,4 +25,5 @@ test:
 
 production:
   <<: *default
+  host: db
   database: production

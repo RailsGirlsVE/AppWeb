@@ -1,0 +1,1 @@
+json.nombre @person.name
