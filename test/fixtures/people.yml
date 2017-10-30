@@ -6,9 +6,12 @@ one:
   dni: 1
   phone: MyString
   address: MyString
-  birthdate: 2017-10-29
+  birthdate: 2017-10-30
   email: MyString
   photo: MyString
+  status: false
+  presence: MyString
+  'true': MyString
 
 two:
   name: MyString
@@ -16,6 +19,9 @@ two:
   dni: 1
   phone: MyString
   address: MyString
-  birthdate: 2017-10-29
+  birthdate: 2017-10-30
   email: MyString
   photo: MyString
+  status: false
+  presence: MyString
+  'true': MyString

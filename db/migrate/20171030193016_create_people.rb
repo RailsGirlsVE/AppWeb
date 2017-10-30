@@ -9,6 +9,8 @@ class CreatePeople < ActiveRecord::Migration[5.1]
       t.date :birthdate
       t.string :email
       t.string :photo
+      t.boolean :status
+  
 
       t.timestamps
     end
